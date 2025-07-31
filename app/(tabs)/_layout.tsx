@@ -16,9 +16,9 @@ const TabsLayout = () => {
           backgroundColor: colors.surface,
           borderTopWidth: 1,
           borderColor: colors.border,
-          height: 90,
+          height: 110,
           paddingTop: 10,
-          paddingBottom: 20,
+          paddingBottom: 60,
         },
         tabBarLabelStyle: {
           fontSize: 12,
